@@ -1,11 +1,5 @@
 # 👋 Hey there! I'm Pavan Sarvesh
-🚀 Web Dev| AI Innovator | Sustainable Tech Advocate
-
-🌟 About Me:
-
-💻 Currently working with NextJS and exploring GenAI to revolutionize credit access for MSMEs and empower conscious consumption through ConsumeWise.
-🎯 Passionate about merging tech, innovation, and sustainability to make a meaningful impact.
----
+🚀 Web Dev
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pavansarveshr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/r-pavan-sarvesh-462798256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/pavansarveshr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavansarvesh31@gmail.com) 
