@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there! I'm Pavan Sarvesh
+🚀 Web Dev| AI Innovator | Sustainable Tech Advocate
 
-<!--
-**pavansarvesh/pavansarvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me:
 
-Here are some ideas to get you started:
+💻 Currently working with NextJS and exploring GenAI to revolutionize credit access for MSMEs and empower conscious consumption through ConsumeWise.
+🎯 Passionate about merging tech, innovation, and sustainability to make a meaningful impact.
+💡 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Developing AI-powered solutions for financial inclusion and sustainability.
+🛠️ Crafting innovative software.
+🌈 Tech Stack:
+
+💻 Languages: Python, C++, JavaScript
+⚡ Tools & Frameworks: TensorFlow, PyTorch, Next
+🛠️ Hardware: Love working with Arduino, Raspberry Pi
+📈 AI & Data: NLP, ML, Data Analysis
+🎨 Fun Facts:
+
+🏋️ Though I’m thin, standing tall at 6'1", I carry the weight of ambitious ideas!
+🧩 Problem-solving is my game – from hackathons to everyday challenges.
+🎮 When not coding, you’ll find me exploring new tech or gaming.
+📫 Let’s Connect:
+
+📧 Email me at pavansarvesh@gmail.com
+💻 “Code to create, innovate, and inspire!”
