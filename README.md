@@ -1,7 +1,6 @@
 # Pavan Sarvesh 
 
 
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/pavansarvesh/" target="_blank">
