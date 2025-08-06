@@ -67,5 +67,3 @@
 </div>
 
 ---
-
-> 🧠 Inspired by [bi0s Recruitment CTF](https://ctf.bi0s.in) — Challenge the limits. Build the future.
