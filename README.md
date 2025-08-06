@@ -56,6 +56,18 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-33FFCC?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 
 ---
+| Category             | Tools & Technologies                              |
+| -------------------- | ------------------------------------------------- |
+| **Languages**        | JavaScript, TypeScript, Python, Solidity          |
+| **Frontend**         | React, Next.js                                    |
+| **Backend**          | Node.js, Prisma, Superbase, Firebase                                   |
+| **Databases**        | PostgreSQL, MySQL                                 |
+| **AI / ML**          | TensorFlow, Keras, PyTorch, Pandas, Matplotlib    |
+| **Web3**             | Web3.js, Smart Contracts                          |
+| **Dev & Deployment** | Vercel, GitHub Actions                            |
+| **Design Tools**     | Figma, Canva, Adobe Photoshop, Adobe Premiere Pro |
+
+---
 
 ## 🚀 Activity & Stats
 <div align="center">
