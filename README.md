@@ -60,8 +60,8 @@
 | -------------------- | ------------------------------------------------- |
 | **Languages**        | JavaScript, TypeScript, Python, Solidity          |
 | **Frontend**         | React, Next.js                                    |
-| **Backend**          | Node.js, Prisma, Superbase, Firebase                                   |
-| **Databases**        | PostgreSQL, MySQL                                 |
+| **Backend**          | Node.js, Prisma                                  |
+| **Databases**        | PostgreSQL, MySQL, Superbase, Firebase                                |
 | **AI / ML**          | TensorFlow, Keras, PyTorch, Pandas, Matplotlib    |
 | **Web3**             | Web3.js, Smart Contracts                          |
 | **Dev & Deployment** | Vercel, GitHub Actions                            |
