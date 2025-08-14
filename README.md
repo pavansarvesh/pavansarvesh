@@ -27,7 +27,7 @@
 ## 💻 Tech Stack
 
 ```diff
-+++ Fullstack Developer | Smart Contract Engineer | Research-Driven Coder
++++ Fullstack Developer | Smart Contract Engineer 
 ```
 
 ### Languages, Frameworks & Tools:
