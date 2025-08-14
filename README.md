@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=33FFCC&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Pavan+Sarvesh;Building+Web3+%26+AI+solutions;Fullstack+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=33FFCC&center=true&vCenter=true&width=800&lines=Pavan+Sarvesh" alt="Pavan Sarvesh" />
+
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=33FFCC&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Pavan+Sarvesh;Building+Web3+%26+AI+solutions;Fullstack+Developer"/> -->
 </h1>
 
 ---
